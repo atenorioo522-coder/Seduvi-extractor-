@@ -1,5 +1,4 @@
-# Seduvi-extractor-
-Frentes a calles 
+# Seduvi-extractor- 
 import io
 import re
 
